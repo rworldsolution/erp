@@ -1,0 +1,32 @@
+.sidebar_ri {
+    position: fixed;
+    background-color: #21263C;
+    height: 100vh;
+    top: 0;
+    left: 0;
+    width: 220px;
+}
+
+.logo_ri {
+    background: #181C2E 0% 0% no-repeat padding-box;
+    box-shadow: 0px 0px 12px #0000000D;
+    padding: 10px;
+}
+
+.header_ri {
+    background-color: #fff;
+    box-shadow: 0px 4px 12px #0000001A;
+    padding: 10px;
+    margin-left: 220px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.user_ri {
+    box-shadow: 0px 0px 6px #00000029;
+    border: 3px solid #FFFFFF;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    margin-left: 8px;
+}
