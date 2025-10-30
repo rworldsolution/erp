@@ -53,3 +53,42 @@
     margin-top: 5px;
     margin-bottom: 10px;
 }
+.sidebar-menu {
+    padding: 5px;
+    margin: 0;
+}
+.sidebar-menu .nav-item-ri {
+    list-style: none;
+}
+.sidebar-menu .nav-item-ri .nav-link-ri {
+    text-decoration: none;
+    color: #fff;
+    font-weight: 400;
+    font-size: 13px;
+    padding: 5px 8px;
+        display: inline-block;
+}
+.dropdown_user_ri.show {
+    background: #F3F6FC 0% 0% no-repeat padding-box;
+    box-shadow: 0px 0px 6px #00000029;
+    overflow: hidden;
+    padding: 0;
+    margin: 0 !important;
+    min-width: 250px;
+    border: 0;
+}
+.user_dropdown {
+    display: flex;
+    align-items: center;
+}
+.user_name {
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: 500;
+}
+.user_Inventory {
+    color: #808080;
+    font-size: 12px;
+    font-weight: 400;
+    margin: 0;
+}
